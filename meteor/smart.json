@@ -1,0 +1,10 @@
+{
+  "meteor": {
+    "branch": "master"
+  },
+  "packages": {
+    "itchcork" : {
+      "path": "packages/itchcork/"
+    }
+  }
+}
